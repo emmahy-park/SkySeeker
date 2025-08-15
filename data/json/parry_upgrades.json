@@ -1,0 +1,44 @@
+[
+  {
+    "upgrade_name": "Cooldown Down",
+    "description": "The power of the souls have strengthened you",
+    "texture_name": "placeholder_sword.png",
+    
+    "cost": 50,
+    
+    "special_cooldown_reduction": {
+      "flat": 0.0,
+      "percent": 20.0
+    }
+  },
+  {
+    "upgrade_name": "Longer Parry",
+    "description": "Parry time increased",
+    "texture_name": "placeholder_sword.png",
+    
+    "cost": 50,
+    
+    "special_duration": {
+      "flat": 0.0,
+      "percent": 20.0
+    }
+  },
+  {
+    "upgrade_name": "Overall Increase",
+    "description": "Decrease parry cooldown and increase duration of parry!",
+    "texture_name": "placeholder_sword.png",
+    "prerequisite_upgrades": [ "Longer Parry", "Cooldown Down" ],
+
+    "cost":  100,
+
+    "special_duration": {
+      "flat": 0.0,
+      "percent": 20.0
+    },
+    "special_cooldown_reduction": {
+      "flat": 0.0,
+      "percent": 20.0
+    }
+
+  }
+]

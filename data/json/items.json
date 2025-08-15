@@ -1,0 +1,572 @@
+[
+	{
+		"item_name": "Placeholder Sword",
+		"description": "This is a legendary sword!",
+		"texture_name": "placeholder_sword.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 15.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "souls",
+		"description": "The basic form of strength",
+		"texture_name": "placeholder_soul.png",
+		"rarity": "SPECIAL",
+		"spawn_rate": 0.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "health",
+		"description": "They will heal you.",
+		"texture_name": "heart.png",
+		"rarity": "SPECIAL",
+		"spawn_rate": 0.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Boots",
+		"description": "Sturdier boots for faster running",
+		"texture_name": "boots.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 20.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Goggles",
+		"description": "Now the dust won't get in your eyes!",
+		"texture_name": "goggles.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 50.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Leather Armour",
+		"description": "Some extra defense never hurt anyone.",
+		"texture_name": "leather_armour.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 10.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Chainmail Armour",
+		"description": "These chains are a little loud, but they'll stop you from getting stabbed.",
+		"texture_name": "chainmail_armour.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 10.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Strange Liquid",
+		"description": "You see guards drink these so it's probably okay.",
+		"texture_name": "strange_liquid.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 5.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Cursed Boots",
+		"description": "These boots emit a disturbing aura. They lure you in with promises of speed and endurance, but what will they take from you?",
+		"texture_name": "cursed_boots.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 50.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": -20.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Bright Crystal",
+		"description": "A crystal that seems to glow with a white light.",
+		"texture_name": "bright_crystal.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 20.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Plate Armour",
+		"description": "Armour made of steel plates. A bit heavy.",
+		"texture_name": "plate_armour.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": -5.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 10.0,
+			"percent": 10.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Wizard Hat",
+		"description": "MAGIC.",
+		"texture_name": "wizard_hat.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 5.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Witch Hat",
+		"description": "MAGIC.",
+		"texture_name": "witch_hat.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 5.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Cheese",
+		"description": "Cheese.",
+		"texture_name": "cheese.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 10.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Fried Egg",
+		"description": "An fried egg.",
+		"texture_name": "egg.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 7.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 10.0
+	},
+	{
+		"item_name": "Red Fruit",
+		"description": "A fruit, red in hue.",
+		"texture_name": "green_apple.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 12.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 50.0
+	},
+	{
+		"item_name": "Pie",
+		"description": "A pie. Its nature is strawberry and rhubarb.",
+		"texture_name": "pie.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 15.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 75.0
+	},
+	{
+		"item_name": "Spikey Helm",
+		"description": "Head protection is important. ",
+		"texture_name": "spikey_helm.png",
+		"rarity": "COMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"defense_bonus": {
+			"flat": 5.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	},
+	{
+		"item_name": "Dark Hood",
+		"description": "Reduces defense in place of speed and attack. ",
+		"texture_name": "dark_hood.png",
+		"rarity": "UNCOMMON",
+		"spawn_rate": 1.0,
+		"speed_bonus": {
+			"flat": 0.0,
+			"percent": 5.0
+		},
+		"health_bonus": {
+			"flat": 0.0,
+			"percent": 0.0
+		},
+		"attack_bonus": {
+			"flat": 0.0,
+			"percent": 5.0
+		},
+		"defense_bonus": {
+			"flat": -5.0,
+			"percent": 0.0
+		},
+		"special_attack_bonus": {
+			"flat": 0.0,
+			"percent": 5.0
+		},
+		"crit_rate_bonus": 0.0,
+		"crit_damage_bonus": 0.0,
+		"healing_percent": 0.0
+	}
+]

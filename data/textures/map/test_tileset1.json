@@ -1,0 +1,14 @@
+{ "columns":11,
+ "image":"..\/..\/..\/..\/Art\/CPSC427\/test_tileset1.png",
+ "imageheight":160,
+ "imagewidth":352,
+ "margin":0,
+ "name":"test_tileset1",
+ "spacing":0,
+ "tilecount":55,
+ "tiledversion":"1.11.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

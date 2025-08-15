@@ -1,0 +1,40 @@
+[
+	{
+		"upgrade_name": "Strength I",
+		"description": "The power of the souls have strengthened you",
+		"texture_name": "placeholder_sword.png",
+			
+		"cost": 50,
+
+		"attack_bonus": {
+			"flat": 5.0,
+			"percent": 0.0
+		}
+	},
+	{
+		"upgrade_name": "Strength II",
+		"description": "The power of the souls have strengthened you",
+		"texture_name": "placeholder_sword.png",
+		"prerequisite_upgrades": [ "Strength I" ],
+
+		"cost": 50,
+
+		"attack_bonus": {
+			"flat": 5.0,
+			"percent": 0.0
+		}
+	},
+	{
+		"upgrade_name": "Strength III",
+		"description": "The power of the souls have strengthened you",
+		"texture_name": "placeholder_sword.png",
+		"prerequisite_upgrades": [ "Strength II" ],
+
+		"cost": 75,
+
+		"attack_bonus": {
+			"flat": 10.0,
+			"percent": 0.0
+		}
+	}
+]

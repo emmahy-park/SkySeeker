@@ -1,0 +1,7 @@
+out/
+.vs/
+build
+
+ext/project_path.hpp
+/CMakeSettings.json
+/data/json/save_game.json
